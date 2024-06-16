@@ -20,7 +20,7 @@ LANGUAGE_COMMAND : ["lang"]
 
 # Play Commands
 
-PLAY_COMMAND : ["play", "oynat", "vplay", "cplay", "cvplay", "playforce", "vplayforce", "cplayforce", "cvplayforce", "oynat"]
+PLAY_COMMAND : ["play", "oynat", "vplay", "cplay", "cvplay", "playforce", "vplayforce", "cplayforce", "cvplayforce", "voynat"]
 
 PLAYMODE_COMMAND : ["playmode"]
 
@@ -160,9 +160,9 @@ AUTOEND_COMMAND : ["snsj"]
 
 #Private Bot Mode
 
-AUTHORIZE_COMMAND : ["kabul"]
+AUTHORIZE_COMMAND : ["yetkilendir"]
 
-UNAUTHORIZE_COMMAND : ["reddet"]
+UNAUTHORIZE_COMMAND : ["yetkial"]
 
 AUTHORIZED_COMMAND : ["listem"]
 
