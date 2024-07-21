@@ -12,13 +12,13 @@ load_dotenv()
 
 # Get it from my.telegram.org
 
-API_ID = int(getenv("API_ID", "3939406"))
+API_ID = int(getenv("API_ID", "28736869"))
 
-API_HASH = getenv("API_HASH", "e11d0eaec136b1047974ab098041e9f2")
+API_HASH = getenv("API_HASH", "258e1a4c3dc48e0c46ee7c8c927ac4a3")
 
 ## Get it from @Botfather in Telegram.
 
-BOT_TOKEN = getenv("BOT_TOKEN", "7332188935:AAHr_WmJ63kvoGRLinMsyk3lagrDAb53aPY")
+BOT_TOKEN = getenv("BOT_TOKEN", "6904551522:AAH9TXT-72JQgsiUpdo-uXggXLASpZL4Y0o")
 
 # Database to save your chats and stats.
 
@@ -46,7 +46,7 @@ LOG_GROUP_ID = int(getenv("LOG_GROUP_ID", "-1002244663689"))
 
 # A name for your Music bot.
 
-MUSIC_BOT_NAME = getenv("MUSIC_BOT_NAME","Delu Muzik Bot")
+MUSIC_BOT_NAME = getenv("MUSIC_BOT_NAME","MytGroupBot")
 
 # Your User ID.
 
